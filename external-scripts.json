@@ -8,5 +8,9 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-shy",
+  "hubot-conspire",
+  "hubot-self-uptime",
+  "hubot-suggest"
 ]
