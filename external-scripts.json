@@ -12,5 +12,7 @@
   "hubot-shy",
   "hubot-conspire",
   "hubot-self-uptime",
-  "hubot-suggest"
+  "hubot-suggest",
+  "hubot-spotify-search",
+  "hubot-auth"
 ]
