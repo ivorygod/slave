@@ -4,7 +4,6 @@
   "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-google-translate",
-  "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
@@ -14,5 +13,6 @@
   "hubot-self-uptime",
   "hubot-suggest",
   "hubot-spotify-search",
-  "hubot-auth"
+  "hubot-auth",
+  "hubot-speed-test"
 ]
