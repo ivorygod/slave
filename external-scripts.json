@@ -13,6 +13,5 @@
   "hubot-self-uptime",
   "hubot-suggest",
   "hubot-spotify-search",
-  "hubot-auth",
-  "hubot-speed-test"
+  "hubot-auth"
 ]
