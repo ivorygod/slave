@@ -20,7 +20,6 @@
     "hubot-shipit": "^0.2.0",
     "hubot-shy": "^1.0.2",
     "hubot-slack": "^3.4.2",
-    "hubot-speed-test": "^1.0.1",
     "hubot-spotify-search": "^1.0.0"
   },
   "engines": {
